@@ -1,0 +1,19 @@
+public class Main {
+    public static void main (String[]args){
+        //subtotal
+        //like count
+        //tombol increment decrement
+        //rata rata rating
+        
+        int modulus = 5 % 2;
+        System.out.println(modulus);
+        int x = 2;
+        int num1=10*x++; //suffix
+        System.out.println(num1);
+        
+        int y=2;
+        int num2 = 10 * ++y; //prefix
+        System.out.println(num2);
+    }
+    
+}
