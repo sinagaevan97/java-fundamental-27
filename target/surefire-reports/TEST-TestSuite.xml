@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="1.952" tests="50" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="1.906" tests="50" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="25"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-25.0.2.10-hotspot\bin"/>
-    <property name="sun.java.command" value="C:\Users\evanb\AppData\Local\Temp\surefire13286834709826477863\surefirebooter-20260317193113334_3.jar C:\Users\evanb\AppData\Local\Temp\surefire13286834709826477863 2026-03-17T19-31-12_605-jvmRun1 surefire-20260317193113334_1tmp surefire_0-20260317193113334_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\evanb\AppData\Local\Temp\surefire6484055097630985966\surefirebooter-20260317224608401_3.jar C:\Users\evanb\AppData\Local\Temp\surefire6484055097630985966 2026-03-17T22-46-07_905-jvmRun1 surefire-20260317224608401_1tmp surefire_0-20260317224608401_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\training\java-fundamental-26-main\target\test-classes;D:\training\java-fundamental-26-main\target\classes;C:\Users\evanb\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar;C:\Users\evanb\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\evanb\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\evanb\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\evanb\.m2\repository\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar;C:\Users\evanb\.m2\repository\org\apache\poi\poi\5.2.3\poi-5.2.3.jar;C:\Users\evanb\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\evanb\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\evanb\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\evanb\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar;C:\Users\evanb\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\evanb\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\evanb\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\evanb\.m2\repository\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar;C:\Users\evanb\.m2\repository\org\apache\logging\log4j\log4j-api\2.18.0\log4j-api-2.18.0.jar;C:\Users\evanb\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\evanb\AppData\Local\Temp\surefire13286834709826477863\surefirebooter-20260317193113334_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\evanb\AppData\Local\Temp\surefire6484055097630985966\surefirebooter-20260317224608401_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="25.0.2+10-LTS"/>
@@ -60,7 +60,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="69.0"/>
   </properties>
-  <testcase name="testLogin[admin, Indonesia, true](1)" classname="com.juaracoding.oop.AuthTest" time="0.013">
+  <testcase name="testLogin[admin, Indonesia, true](1)" classname="com.juaracoding.oop.AuthTest" time="0.012">
     <system-out><![CDATA[Setup before running Auth tests
 Test login success passed
 ]]></system-out>
@@ -69,44 +69,44 @@ SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
 ]]></system-err>
   </testcase>
-  <testcase name="testLogin[admin, WrongPassword, false](2)" classname="com.juaracoding.oop.AuthTest" time="0.001">
+  <testcase name="testLogin[admin, WrongPassword, false](2)" classname="com.juaracoding.oop.AuthTest" time="0.002">
     <system-out><![CDATA[Test login success passed
 ]]></system-out>
   </testcase>
-  <testcase name="testLogin[user, Indonesia, false](3)" classname="com.juaracoding.oop.AuthTest" time="0.003">
+  <testcase name="testLogin[user, Indonesia, false](3)" classname="com.juaracoding.oop.AuthTest" time="0.002">
     <system-out><![CDATA[Test login success passed
 ]]></system-out>
   </testcase>
-  <testcase name="testLogin[user, WrongPassword, false](4)" classname="com.juaracoding.oop.AuthTest" time="0.002">
+  <testcase name="testLogin[user, WrongPassword, false](4)" classname="com.juaracoding.oop.AuthTest" time="0.001">
     <system-out><![CDATA[Test login success passed
 ]]></system-out>
   </testcase>
-  <testcase name="testRegister[1234567890123451, newuser1, password123](1)" classname="com.juaracoding.oop.AuthTest" time="0.008">
+  <testcase name="testRegister[1234567890123451, newuser1, password123](1)" classname="com.juaracoding.oop.AuthTest" time="0.009">
     <system-out><![CDATA[User registered: newuser1
 Test register success passed
 ]]></system-out>
   </testcase>
-  <testcase name="testRegister[1234567890123452, newuser2, password123](2)" classname="com.juaracoding.oop.AuthTest" time="0.003">
+  <testcase name="testRegister[1234567890123452, newuser2, password123](2)" classname="com.juaracoding.oop.AuthTest" time="0.012">
     <system-out><![CDATA[User registered: newuser2
 Test register success passed
 ]]></system-out>
   </testcase>
-  <testcase name="testRegister[1234567890123453, newuser3, password123](3)" classname="com.juaracoding.oop.AuthTest" time="0.007">
+  <testcase name="testRegister[1234567890123453, newuser3, password123](3)" classname="com.juaracoding.oop.AuthTest" time="0.003">
     <system-out><![CDATA[User registered: newuser3
 Test register success passed
 ]]></system-out>
   </testcase>
-  <testcase name="testRegister[1234567890123454, newuser4, password123](4)" classname="com.juaracoding.oop.AuthTest" time="0.004">
+  <testcase name="testRegister[1234567890123454, newuser4, password123](4)" classname="com.juaracoding.oop.AuthTest" time="0.003">
     <system-out><![CDATA[User registered: newuser4
 Test register success passed
 ]]></system-out>
   </testcase>
-  <testcase name="testRegister[1234567890123455, newuser5, password123](5)" classname="com.juaracoding.oop.AuthTest" time="0.003">
+  <testcase name="testRegister[1234567890123455, newuser5, password123](5)" classname="com.juaracoding.oop.AuthTest" time="0.002">
     <system-out><![CDATA[User registered: newuser5
 Test register success passed
 ]]></system-out>
   </testcase>
-  <testcase name="testRegister[1234567890123456, newuser6, password123](6)" classname="com.juaracoding.oop.AuthTest" time="0.005">
+  <testcase name="testRegister[1234567890123456, newuser6, password123](6)" classname="com.juaracoding.oop.AuthTest" time="0.001">
     <system-out><![CDATA[User registered: newuser6
 Test register success passed
 ]]></system-out>
@@ -117,26 +117,26 @@ Test register success passed
 ]]></system-out>
   </testcase>
   <testcase name="testRegisterInvalid[null, user, password123](1)" classname="com.juaracoding.oop.AuthTest" time="0"/>
-  <testcase name="testRegisterInvalid[1234567890123456, null, password123](2)" classname="com.juaracoding.oop.AuthTest" time="0.001"/>
-  <testcase name="testRegisterInvalid[1234567890123456, user, null](3)" classname="com.juaracoding.oop.AuthTest" time="0.002"/>
+  <testcase name="testRegisterInvalid[1234567890123456, null, password123](2)" classname="com.juaracoding.oop.AuthTest" time="0"/>
+  <testcase name="testRegisterInvalid[1234567890123456, user, null](3)" classname="com.juaracoding.oop.AuthTest" time="0"/>
   <testcase name="testRegisterInvalid[1234567890123456, user, short](4)" classname="com.juaracoding.oop.AuthTest" time="0"/>
-  <testcase name="testRegisterInvalid[invalidNik, user, password123](5)" classname="com.juaracoding.oop.AuthTest" time="0.001"/>
-  <testcase name="testRegisterWithInvalidNik" classname="com.juaracoding.oop.AuthTest" time="0.001"/>
-  <testcase name="testSetNama" classname="com.juaracoding.oop.KaryawanTest" time="0.001">
+  <testcase name="testRegisterInvalid[invalidNik, user, password123](5)" classname="com.juaracoding.oop.AuthTest" time="0"/>
+  <testcase name="testRegisterWithInvalidNik" classname="com.juaracoding.oop.AuthTest" time="0"/>
+  <testcase name="testSetNama" classname="com.juaracoding.oop.KaryawanTest" time="0">
     <system-out><![CDATA[Setup before running tests
 Test setNama method passed
 ]]></system-out>
   </testcase>
-  <testcase name="testSetJabatan" classname="com.juaracoding.oop.KaryawanTest" time="0.002">
+  <testcase name="testSetJabatan" classname="com.juaracoding.oop.KaryawanTest" time="0.004">
     <system-out><![CDATA[Test setJabatan method passed
 ]]></system-out>
   </testcase>
-  <testcase name="testSetSalary" classname="com.juaracoding.oop.KaryawanTest" time="0.002">
+  <testcase name="testSetSalary" classname="com.juaracoding.oop.KaryawanTest" time="0.003">
     <system-out><![CDATA[Test setSalary method passed
 ]]></system-out>
   </testcase>
   <testcase name="testSetNegativeSalary" classname="com.juaracoding.oop.KaryawanTest" time="0"/>
-  <testcase name="testCalculateAnnualSalary" classname="com.juaracoding.oop.KaryawanTest" time="0.004">
+  <testcase name="testCalculateAnnualSalary" classname="com.juaracoding.oop.KaryawanTest" time="0.002">
     <system-out><![CDATA[Test calculateAnnualSalary method passed
 ]]></system-out>
   </testcase>
@@ -144,13 +144,13 @@ Test setNama method passed
     <system-out><![CDATA[Test calculateTax method passed
 ]]></system-out>
   </testcase>
-  <testcase name="testAdd[1, 1, 2](1)" classname="com.juaracoding.oop.CalculatorTest" time="0.005">
+  <testcase name="testAdd[1, 1, 2](1)" classname="com.juaracoding.oop.CalculatorTest" time="0.004">
     <system-out><![CDATA[Setup before running tests
 Running before each test method
 Test add method passed for: 1, 1
 ]]></system-out>
   </testcase>
-  <testcase name="testAdd[0, 5, 5](2)" classname="com.juaracoding.oop.CalculatorTest" time="0">
+  <testcase name="testAdd[0, 5, 5](2)" classname="com.juaracoding.oop.CalculatorTest" time="0.001">
     <system-out><![CDATA[Running before each test method
 Test add method passed for: 0, 5
 ]]></system-out>
@@ -165,7 +165,7 @@ Test add method passed for: -1, 1
 Test add method passed for: 100, 200
 ]]></system-out>
   </testcase>
-  <testcase name="testAdd[5, 3, 8](5)" classname="com.juaracoding.oop.CalculatorTest" time="0.001">
+  <testcase name="testAdd[5, 3, 8](5)" classname="com.juaracoding.oop.CalculatorTest" time="0">
     <system-out><![CDATA[Running before each test method
 Test add method passed for: 5, 3
 ]]></system-out>
@@ -187,7 +187,7 @@ Test subtract method passed for: 10, 5
 Test subtract method passed for: 4, 2
 ]]></system-out>
   </testcase>
-  <testcase name="testSubtract[10, 7, 3](4)" classname="com.juaracoding.oop.CalculatorTest" time="0.001">
+  <testcase name="testSubtract[10, 7, 3](4)" classname="com.juaracoding.oop.CalculatorTest" time="0">
     <system-out><![CDATA[Running before each test method
 Test subtract method passed for: 10, 7
 ]]></system-out>
@@ -197,7 +197,7 @@ Test subtract method passed for: 10, 7
 Test multiply method passed
 ]]></system-out>
   </testcase>
-  <testcase name="testDivide" classname="com.juaracoding.oop.CalculatorTest" time="0">
+  <testcase name="testDivide" classname="com.juaracoding.oop.CalculatorTest" time="0.001">
     <system-out><![CDATA[Running before each test method
 Test divide method passed
 ]]></system-out>
@@ -206,18 +206,18 @@ Test divide method passed
     <system-out><![CDATA[Running before each test method
 ]]></system-out>
   </testcase>
-  <testcase name="testGetDaftarKaryawan" classname="test.Ujian2" time="0"/>
+  <testcase name="testGetDaftarKaryawan" classname="test.Ujian2" time="0.001"/>
   <testcase name="testGetJumlahKaryawan" classname="test.Ujian2" time="0.001"/>
-  <testcase name="testGetNamaDivisi" classname="test.Ujian2" time="0.002"/>
-  <testcase name="testHitungGajiTotalLainnya" classname="test.Ujian2" time="0.001"/>
-  <testcase name="testHitungGajiTotalManager" classname="test.Ujian2" time="0.002"/>
-  <testcase name="testHitungGajiTotalStaff" classname="test.Ujian2" time="0.001"/>
-  <testcase name="testSetGajiPokok" classname="test.Ujian2" time="0.001"/>
+  <testcase name="testGetNamaDivisi" classname="test.Ujian2" time="0"/>
+  <testcase name="testHitungGajiTotalLainnya" classname="test.Ujian2" time="0"/>
+  <testcase name="testHitungGajiTotalManager" classname="test.Ujian2" time="0.001"/>
+  <testcase name="testHitungGajiTotalStaff" classname="test.Ujian2" time="0"/>
+  <testcase name="testSetGajiPokok" classname="test.Ujian2" time="0"/>
   <testcase name="testSetJabatan" classname="test.Ujian2" time="0"/>
   <testcase name="testSetNama" classname="test.Ujian2" time="0.001"/>
   <testcase name="testSetNamaDivisi" classname="test.Ujian2" time="0.001"/>
-  <testcase name="testSetNegativeGajiPokok" classname="test.Ujian2" time="0"/>
-  <testcase name="testTambahKaryawan" classname="test.Ujian2" time="0.002"/>
+  <testcase name="testSetNegativeGajiPokok" classname="test.Ujian2" time="0.001"/>
+  <testcase name="testTambahKaryawan" classname="test.Ujian2" time="0"/>
   <testcase name="testTambahKaryawanNull" classname="test.Ujian2" time="0"/>
   <testcase name="testUpdateGaji" classname="test.Ujian2" time="0.001"/>
   <testcase name="testUpdateGajiNegativePersentase" classname="test.Ujian2" time="0.001"/>

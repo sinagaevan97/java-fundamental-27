@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="50" passed="50" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-03-17T19:31:14 WIB" name="AllSuite" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1135">
+  <suite started-at="2026-03-17T22:46:09 WIB" name="AllSuite" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1164">
     <groups>
       <group name="math">
         <method signature="CalculatorTest.testAdd(int,int,int)[pri:1, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" name="testAdd" class="com.juaracoding.oop.CalculatorTest"/>
         <method signature="CalculatorTest.testSubtract(java.lang.Object,java.lang.Object,java.lang.Object)[pri:2, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" name="testSubtract" class="com.juaracoding.oop.CalculatorTest"/>
       </group> <!-- math -->
     </groups>
-    <test started-at="2026-03-17T19:31:14 WIB" name="OOPTests" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1135">
+    <test started-at="2026-03-17T22:46:09 WIB" name="OOPTests" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1164">
       <class name="com.juaracoding.oop.AuthTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T19:31:14 WIB" name="setup" finished-at="2026-03-17T19:31:14 WIB" duration-ms="15" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T22:46:09 WIB" name="setup" finished-at="2026-03-17T22:46:09 WIB" duration-ms="17" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testLogin(java.lang.String,java.lang.String,boolean)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T19:31:14 WIB" name="testLogin" data-provider="loginData" finished-at="2026-03-17T19:31:14 WIB" duration-ms="15" status="PASS">
+        <test-method signature="testLogin(java.lang.String,java.lang.String,boolean)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T22:46:09 WIB" name="testLogin" data-provider="loginData" finished-at="2026-03-17T22:46:09 WIB" duration-ms="14" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -36,7 +36,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin -->
-        <test-method signature="testLogin(java.lang.String,java.lang.String,boolean)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T19:31:14 WIB" name="testLogin" data-provider="loginData" finished-at="2026-03-17T19:31:14 WIB" duration-ms="0" status="PASS">
+        <test-method signature="testLogin(java.lang.String,java.lang.String,boolean)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T22:46:09 WIB" name="testLogin" data-provider="loginData" finished-at="2026-03-17T22:46:09 WIB" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -57,7 +57,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin -->
-        <test-method signature="testLogin(java.lang.String,java.lang.String,boolean)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T19:31:14 WIB" name="testLogin" data-provider="loginData" finished-at="2026-03-17T19:31:14 WIB" duration-ms="0" status="PASS">
+        <test-method signature="testLogin(java.lang.String,java.lang.String,boolean)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T22:46:09 WIB" name="testLogin" data-provider="loginData" finished-at="2026-03-17T22:46:09 WIB" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -78,7 +78,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin -->
-        <test-method signature="testLogin(java.lang.String,java.lang.String,boolean)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T19:31:14 WIB" name="testLogin" data-provider="loginData" finished-at="2026-03-17T19:31:14 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testLogin(java.lang.String,java.lang.String,boolean)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T22:46:09 WIB" name="testLogin" data-provider="loginData" finished-at="2026-03-17T22:46:09 WIB" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -99,7 +99,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin -->
-        <test-method signature="testRegister(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T19:31:14 WIB" name="testRegister" data-provider="registerData" finished-at="2026-03-17T19:31:14 WIB" duration-ms="6" status="PASS">
+        <test-method signature="testRegister(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T22:46:09 WIB" name="testRegister" data-provider="registerData" finished-at="2026-03-17T22:46:09 WIB" duration-ms="6" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -120,7 +120,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegister -->
-        <test-method signature="testRegister(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T19:31:14 WIB" name="testRegister" data-provider="registerData" finished-at="2026-03-17T19:31:14 WIB" duration-ms="0" status="PASS">
+        <test-method signature="testRegister(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T22:46:09 WIB" name="testRegister" data-provider="registerData" finished-at="2026-03-17T22:46:09 WIB" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -141,7 +141,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegister -->
-        <test-method signature="testRegister(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T19:31:14 WIB" name="testRegister" data-provider="registerData" finished-at="2026-03-17T19:31:14 WIB" duration-ms="2" status="PASS">
+        <test-method signature="testRegister(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T22:46:09 WIB" name="testRegister" data-provider="registerData" finished-at="2026-03-17T22:46:09 WIB" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -162,7 +162,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegister -->
-        <test-method signature="testRegister(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T19:31:14 WIB" name="testRegister" data-provider="registerData" finished-at="2026-03-17T19:31:14 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testRegister(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T22:46:09 WIB" name="testRegister" data-provider="registerData" finished-at="2026-03-17T22:46:09 WIB" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -183,7 +183,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegister -->
-        <test-method signature="testRegister(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T19:31:14 WIB" name="testRegister" data-provider="registerData" finished-at="2026-03-17T19:31:14 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testRegister(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T22:46:09 WIB" name="testRegister" data-provider="registerData" finished-at="2026-03-17T22:46:09 WIB" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -204,7 +204,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegister -->
-        <test-method signature="testRegister(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T19:31:14 WIB" name="testRegister" data-provider="registerData" finished-at="2026-03-17T19:31:14 WIB" duration-ms="3" status="PASS">
+        <test-method signature="testRegister(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T22:46:09 WIB" name="testRegister" data-provider="registerData" finished-at="2026-03-17T22:46:09 WIB" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -225,7 +225,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegister -->
-        <test-method signature="testRegister(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T19:31:14 WIB" name="testRegister" data-provider="registerData" finished-at="2026-03-17T19:31:14 WIB" duration-ms="2" status="PASS">
+        <test-method signature="testRegister(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T22:46:09 WIB" name="testRegister" data-provider="registerData" finished-at="2026-03-17T22:46:09 WIB" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -246,7 +246,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegister -->
-        <test-method signature="testRegisterInvalid(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T19:31:14 WIB" name="testRegisterInvalid" data-provider="registerInvalidData" finished-at="2026-03-17T19:31:14 WIB" duration-ms="3" status="PASS">
+        <test-method signature="testRegisterInvalid(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T22:46:09 WIB" name="testRegisterInvalid" data-provider="registerInvalidData" finished-at="2026-03-17T22:46:09 WIB" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value is-null="true"/>
@@ -306,7 +306,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegisterInvalid -->
-        <test-method signature="testRegisterInvalid(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T19:31:14 WIB" name="testRegisterInvalid" data-provider="registerInvalidData" finished-at="2026-03-17T19:31:14 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testRegisterInvalid(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T22:46:09 WIB" name="testRegisterInvalid" data-provider="registerInvalidData" finished-at="2026-03-17T22:46:09 WIB" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -366,7 +366,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegisterInvalid -->
-        <test-method signature="testRegisterInvalid(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T19:31:14 WIB" name="testRegisterInvalid" data-provider="registerInvalidData" finished-at="2026-03-17T19:31:14 WIB" duration-ms="0" status="PASS">
+        <test-method signature="testRegisterInvalid(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T22:46:09 WIB" name="testRegisterInvalid" data-provider="registerInvalidData" finished-at="2026-03-17T22:46:09 WIB" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -426,7 +426,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegisterInvalid -->
-        <test-method signature="testRegisterInvalid(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T19:31:14 WIB" name="testRegisterInvalid" data-provider="registerInvalidData" finished-at="2026-03-17T19:31:14 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testRegisterInvalid(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T22:46:09 WIB" name="testRegisterInvalid" data-provider="registerInvalidData" finished-at="2026-03-17T22:46:09 WIB" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -488,7 +488,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegisterInvalid -->
-        <test-method signature="testRegisterInvalid(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T19:31:14 WIB" name="testRegisterInvalid" data-provider="registerInvalidData" finished-at="2026-03-17T19:31:14 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testRegisterInvalid(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T22:46:09 WIB" name="testRegisterInvalid" data-provider="registerInvalidData" finished-at="2026-03-17T22:46:09 WIB" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -550,7 +550,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegisterInvalid -->
-        <test-method signature="testRegisterWithInvalidNik()[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T19:31:14 WIB" name="testRegisterWithInvalidNik" finished-at="2026-03-17T19:31:14 WIB" duration-ms="0" status="PASS">
+        <test-method signature="testRegisterWithInvalidNik()[pri:0, instance:com.juaracoding.oop.AuthTest@222114ba]" started-at="2026-03-17T22:46:09 WIB" name="testRegisterWithInvalidNik" finished-at="2026-03-17T22:46:09 WIB" duration-ms="0" status="PASS">
           <exception class="java.lang.IllegalArgumentException">
             <message>
               <![CDATA[NIK must be 16 characters long and contain only digits]]>
@@ -597,15 +597,15 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
         </test-method> <!-- testRegisterWithInvalidNik -->
       </class> <!-- com.juaracoding.oop.AuthTest -->
       <class name="com.juaracoding.oop.CalculatorTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:14 WIB" name="setup" finished-at="2026-03-17T19:31:14 WIB" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:09 WIB" name="setup" finished-at="2026-03-17T22:46:09 WIB" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:14 WIB" name="beforeMethod" finished-at="2026-03-17T19:31:14 WIB" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:09 WIB" name="beforeMethod" finished-at="2026-03-17T22:46:09 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="testAdd(int,int,int)[pri:1, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:14 WIB" name="testAdd" data-provider="addData" finished-at="2026-03-17T19:31:14 WIB" duration-ms="7" status="PASS">
+        <test-method signature="testAdd(int,int,int)[pri:1, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:09 WIB" name="testAdd" data-provider="addData" finished-at="2026-03-17T22:46:09 WIB" duration-ms="6" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -626,11 +626,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAdd -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:14 WIB" name="beforeMethod" finished-at="2026-03-17T19:31:14 WIB" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="testAdd(int,int,int)[pri:1, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:14 WIB" name="testAdd" data-provider="addData" finished-at="2026-03-17T19:31:14 WIB" duration-ms="0" status="PASS">
+        <test-method signature="testAdd(int,int,int)[pri:1, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:09 WIB" name="testAdd" data-provider="addData" finished-at="2026-03-17T22:46:09 WIB" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -651,11 +647,15 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAdd -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:14 WIB" name="beforeMethod" finished-at="2026-03-17T19:31:14 WIB" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:09 WIB" name="beforeMethod" finished-at="2026-03-17T22:46:09 WIB" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="testAdd(int,int,int)[pri:1, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:14 WIB" name="testAdd" data-provider="addData" finished-at="2026-03-17T19:31:14 WIB" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:09 WIB" name="beforeMethod" finished-at="2026-03-17T22:46:09 WIB" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testAdd(int,int,int)[pri:1, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:09 WIB" name="testAdd" data-provider="addData" finished-at="2026-03-17T22:46:09 WIB" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -676,11 +676,11 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAdd -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:14 WIB" name="beforeMethod" finished-at="2026-03-17T19:31:14 WIB" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:09 WIB" name="beforeMethod" finished-at="2026-03-17T22:46:09 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="testAdd(int,int,int)[pri:1, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:14 WIB" name="testAdd" data-provider="addData" finished-at="2026-03-17T19:31:14 WIB" duration-ms="0" status="PASS">
+        <test-method signature="testAdd(int,int,int)[pri:1, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:09 WIB" name="testAdd" data-provider="addData" finished-at="2026-03-17T22:46:09 WIB" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -701,7 +701,11 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAdd -->
-        <test-method signature="testAdd(int,int,int)[pri:1, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:14 WIB" name="testAdd" data-provider="addData" finished-at="2026-03-17T19:31:14 WIB" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:09 WIB" name="beforeMethod" finished-at="2026-03-17T22:46:09 WIB" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testAdd(int,int,int)[pri:1, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:09 WIB" name="testAdd" data-provider="addData" finished-at="2026-03-17T22:46:09 WIB" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -722,11 +726,11 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAdd -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:14 WIB" name="beforeMethod" finished-at="2026-03-17T19:31:14 WIB" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:10 WIB" name="beforeMethod" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="testSubtract(java.lang.Object,java.lang.Object,java.lang.Object)[pri:2, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:15 WIB" name="testSubtract" data-provider="subtractData" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testSubtract(java.lang.Object,java.lang.Object,java.lang.Object)[pri:2, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:10 WIB" name="testSubtract" data-provider="subtractData" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -747,15 +751,11 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSubtract -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:15 WIB" name="beforeMethod" finished-at="2026-03-17T19:31:15 WIB" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:10 WIB" name="beforeMethod" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:15 WIB" name="beforeMethod" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="testSubtract(java.lang.Object,java.lang.Object,java.lang.Object)[pri:2, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:15 WIB" name="testSubtract" data-provider="subtractData" finished-at="2026-03-17T19:31:15 WIB" duration-ms="2" status="PASS">
+        <test-method signature="testSubtract(java.lang.Object,java.lang.Object,java.lang.Object)[pri:2, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:10 WIB" name="testSubtract" data-provider="subtractData" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -776,11 +776,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSubtract -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:15 WIB" name="beforeMethod" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="testSubtract(java.lang.Object,java.lang.Object,java.lang.Object)[pri:2, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:15 WIB" name="testSubtract" data-provider="subtractData" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testSubtract(java.lang.Object,java.lang.Object,java.lang.Object)[pri:2, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:10 WIB" name="testSubtract" data-provider="subtractData" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -801,11 +797,15 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSubtract -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:15 WIB" name="beforeMethod" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:10 WIB" name="beforeMethod" finished-at="2026-03-17T22:46:10 WIB" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="testSubtract(java.lang.Object,java.lang.Object,java.lang.Object)[pri:2, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:15 WIB" name="testSubtract" data-provider="subtractData" finished-at="2026-03-17T19:31:15 WIB" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:10 WIB" name="beforeMethod" finished-at="2026-03-17T22:46:10 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testSubtract(java.lang.Object,java.lang.Object,java.lang.Object)[pri:2, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:10 WIB" name="testSubtract" data-provider="subtractData" finished-at="2026-03-17T22:46:10 WIB" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -826,27 +826,23 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSubtract -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:15 WIB" name="beforeMethod" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:10 WIB" name="beforeMethod" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="testMultiply()[pri:3, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:15 WIB" name="testMultiply" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testMultiply()[pri:3, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:10 WIB" name="testMultiply" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMultiply -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:15 WIB" name="beforeMethod" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:10 WIB" name="beforeMethod" finished-at="2026-03-17T22:46:10 WIB" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="testDivide()[pri:4, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:15 WIB" name="testDivide" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testDivide()[pri:4, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:10 WIB" name="testDivide" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDivide -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:15 WIB" name="beforeMethod" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="testDivideByZero()[pri:5, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T19:31:15 WIB" name="testDivideByZero" finished-at="2026-03-17T19:31:15 WIB" depends-on-methods="com.juaracoding.oop.CalculatorTest.testDivide" duration-ms="2" status="PASS">
+        <test-method signature="testDivideByZero()[pri:5, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:10 WIB" name="testDivideByZero" finished-at="2026-03-17T22:46:10 WIB" depends-on-methods="com.juaracoding.oop.CalculatorTest.testDivide" duration-ms="1" status="PASS">
           <exception class="java.lang.IllegalArgumentException">
             <message>
               <![CDATA[Cannot divide by zero]]>
@@ -891,25 +887,29 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDivideByZero -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.juaracoding.oop.CalculatorTest@4c1d9d4b]" started-at="2026-03-17T22:46:10 WIB" name="beforeMethod" finished-at="2026-03-17T22:46:10 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
       </class> <!-- com.juaracoding.oop.CalculatorTest -->
       <class name="com.juaracoding.oop.KaryawanTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.juaracoding.oop.KaryawanTest@3901d134]" started-at="2026-03-17T19:31:14 WIB" name="setup" finished-at="2026-03-17T19:31:14 WIB" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.juaracoding.oop.KaryawanTest@3901d134]" started-at="2026-03-17T22:46:09 WIB" name="setup" finished-at="2026-03-17T22:46:09 WIB" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testSetNama()[pri:1, instance:com.juaracoding.oop.KaryawanTest@3901d134]" started-at="2026-03-17T19:31:14 WIB" name="testSetNama" finished-at="2026-03-17T19:31:14 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testSetNama()[pri:1, instance:com.juaracoding.oop.KaryawanTest@3901d134]" started-at="2026-03-17T22:46:09 WIB" name="testSetNama" finished-at="2026-03-17T22:46:09 WIB" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSetNama -->
-        <test-method signature="testSetJabatan()[pri:2, instance:com.juaracoding.oop.KaryawanTest@3901d134]" started-at="2026-03-17T19:31:14 WIB" name="testSetJabatan" finished-at="2026-03-17T19:31:14 WIB" duration-ms="0" status="PASS">
+        <test-method signature="testSetJabatan()[pri:2, instance:com.juaracoding.oop.KaryawanTest@3901d134]" started-at="2026-03-17T22:46:09 WIB" name="testSetJabatan" finished-at="2026-03-17T22:46:09 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSetJabatan -->
-        <test-method signature="testSetSalary()[pri:3, instance:com.juaracoding.oop.KaryawanTest@3901d134]" started-at="2026-03-17T19:31:14 WIB" name="testSetSalary" finished-at="2026-03-17T19:31:14 WIB" duration-ms="2" status="PASS">
+        <test-method signature="testSetSalary()[pri:3, instance:com.juaracoding.oop.KaryawanTest@3901d134]" started-at="2026-03-17T22:46:09 WIB" name="testSetSalary" finished-at="2026-03-17T22:46:09 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSetSalary -->
-        <test-method signature="testSetNegativeSalary()[pri:4, instance:com.juaracoding.oop.KaryawanTest@3901d134]" started-at="2026-03-17T19:31:14 WIB" name="testSetNegativeSalary" finished-at="2026-03-17T19:31:14 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testSetNegativeSalary()[pri:4, instance:com.juaracoding.oop.KaryawanTest@3901d134]" started-at="2026-03-17T22:46:09 WIB" name="testSetNegativeSalary" finished-at="2026-03-17T22:46:09 WIB" duration-ms="0" status="PASS">
           <exception class="java.lang.IllegalArgumentException">
             <message>
               <![CDATA[Salary cannot be negative]]>
@@ -954,97 +954,101 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSetNegativeSalary -->
-        <test-method signature="testCalculateAnnualSalary()[pri:5, instance:com.juaracoding.oop.KaryawanTest@3901d134]" started-at="2026-03-17T19:31:14 WIB" name="testCalculateAnnualSalary" finished-at="2026-03-17T19:31:14 WIB" duration-ms="0" status="PASS">
+        <test-method signature="testCalculateAnnualSalary()[pri:5, instance:com.juaracoding.oop.KaryawanTest@3901d134]" started-at="2026-03-17T22:46:09 WIB" name="testCalculateAnnualSalary" finished-at="2026-03-17T22:46:09 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCalculateAnnualSalary -->
-        <test-method signature="testCalculateTax()[pri:6, instance:com.juaracoding.oop.KaryawanTest@3901d134]" started-at="2026-03-17T19:31:14 WIB" name="testCalculateTax" finished-at="2026-03-17T19:31:14 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testCalculateTax()[pri:6, instance:com.juaracoding.oop.KaryawanTest@3901d134]" started-at="2026-03-17T22:46:09 WIB" name="testCalculateTax" finished-at="2026-03-17T22:46:09 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCalculateTax -->
       </class> <!-- com.juaracoding.oop.KaryawanTest -->
       <class name="test.Ujian2">
-        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="setup" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="setup" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testGetDaftarKaryawan()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="testGetDaftarKaryawan" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testGetDaftarKaryawan()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="testGetDaftarKaryawan" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetDaftarKaryawan -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="setup" finished-at="2026-03-17T19:31:15 WIB" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="setup" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testGetJumlahKaryawan()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="testGetJumlahKaryawan" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testGetJumlahKaryawan()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="testGetJumlahKaryawan" finished-at="2026-03-17T22:46:10 WIB" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetJumlahKaryawan -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="setup" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="setup" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testGetNamaDivisi()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="testGetNamaDivisi" finished-at="2026-03-17T19:31:15 WIB" duration-ms="0" status="PASS">
+        <test-method signature="testGetNamaDivisi()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="testGetNamaDivisi" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetNamaDivisi -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="setup" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="testHitungGajiTotalLainnya()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="testHitungGajiTotalLainnya" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testHitungGajiTotalLainnya()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="testHitungGajiTotalLainnya" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHitungGajiTotalLainnya -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="setup" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="setup" finished-at="2026-03-17T22:46:10 WIB" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testHitungGajiTotalManager()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="testHitungGajiTotalManager" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="setup" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testHitungGajiTotalManager()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="testHitungGajiTotalManager" finished-at="2026-03-17T22:46:10 WIB" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHitungGajiTotalManager -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="setup" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="setup" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testHitungGajiTotalStaff()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="testHitungGajiTotalStaff" finished-at="2026-03-17T19:31:15 WIB" duration-ms="0" status="PASS">
+        <test-method signature="testHitungGajiTotalStaff()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="testHitungGajiTotalStaff" finished-at="2026-03-17T22:46:10 WIB" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHitungGajiTotalStaff -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="setup" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="testSetGajiPokok()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="testSetGajiPokok" finished-at="2026-03-17T19:31:15 WIB" duration-ms="0" status="PASS">
+        <test-method signature="testSetGajiPokok()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="testSetGajiPokok" finished-at="2026-03-17T22:46:10 WIB" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSetGajiPokok -->
-        <test-method signature="testSetJabatan()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="testSetJabatan" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="setup" finished-at="2026-03-17T22:46:10 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="setup" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSetJabatan()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="testSetJabatan" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSetJabatan -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="setup" finished-at="2026-03-17T19:31:15 WIB" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="setup" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="setup" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="testSetNama()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="testSetNama" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testSetNama()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="testSetNama" finished-at="2026-03-17T22:46:10 WIB" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSetNama -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="setup" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="testSetNamaDivisi()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="testSetNamaDivisi" finished-at="2026-03-17T19:31:15 WIB" duration-ms="0" status="PASS">
+        <test-method signature="testSetNamaDivisi()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="testSetNamaDivisi" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSetNamaDivisi -->
-        <test-method signature="testSetNegativeGajiPokok()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="testSetNegativeGajiPokok" finished-at="2026-03-17T19:31:15 WIB" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="setup" finished-at="2026-03-17T22:46:10 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="setup" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSetNegativeGajiPokok()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="testSetNegativeGajiPokok" finished-at="2026-03-17T22:46:10 WIB" duration-ms="0" status="PASS">
           <exception class="java.lang.IllegalArgumentException">
             <message>
               <![CDATA[Gaji pokok tidak boleh negatif]]>
@@ -1089,39 +1093,31 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSetNegativeGajiPokok -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="setup" finished-at="2026-03-17T19:31:15 WIB" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="testTambahKaryawan()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="testTambahKaryawan" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testTambahKaryawan()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="testTambahKaryawan" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTambahKaryawan -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="setup" finished-at="2026-03-17T19:31:15 WIB" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="setup" finished-at="2026-03-17T22:46:10 WIB" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="setup" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="setup" finished-at="2026-03-17T22:46:10 WIB" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testTambahKaryawanNull()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="testTambahKaryawanNull" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testTambahKaryawanNull()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="testTambahKaryawanNull" finished-at="2026-03-17T22:46:10 WIB" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTambahKaryawanNull -->
-        <test-method signature="testUpdateGaji()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="testUpdateGaji" finished-at="2026-03-17T19:31:15 WIB" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="setup" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testUpdateGaji()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="testUpdateGaji" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUpdateGaji -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="setup" finished-at="2026-03-17T19:31:15 WIB" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="setup" finished-at="2026-03-17T19:31:15 WIB" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="testUpdateGajiNegativePersentase()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T19:31:15 WIB" name="testUpdateGajiNegativePersentase" finished-at="2026-03-17T19:31:15 WIB" duration-ms="0" status="PASS">
+        <test-method signature="testUpdateGajiNegativePersentase()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="testUpdateGajiNegativePersentase" finished-at="2026-03-17T22:46:10 WIB" duration-ms="1" status="PASS">
           <exception class="java.lang.IllegalArgumentException">
             <message>
               <![CDATA[Persentase tidak boleh negatif]]>
@@ -1166,6 +1162,10 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUpdateGajiNegativePersentase -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Ujian2@7b227d8d]" started-at="2026-03-17T22:46:10 WIB" name="setup" finished-at="2026-03-17T22:46:10 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
       </class> <!-- test.Ujian2 -->
     </test> <!-- OOPTests -->
   </suite> <!-- AllSuite -->
