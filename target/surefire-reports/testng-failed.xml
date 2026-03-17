@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AllSuite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="OOPTests(failed)" verbose="0">
+    <classes>
+      <class name="com.juaracoding.oop.KaryawanTest">
+        <methods>
+          <include name="setup"/>
+          <include name="testCalculateAnnualSalary"/>
+        </methods>
+      </class> <!-- com.juaracoding.oop.KaryawanTest -->
+    </classes>
+  </test> <!-- OOPTests(failed) -->
+</suite> <!-- Failed suite [AllSuite] -->

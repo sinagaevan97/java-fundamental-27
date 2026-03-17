@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AllSuite">
+    <test name="OOPTests">
+        <classes>
+            <class name="com.juaracoding.oop.AuthTest"/>
+            <class name="com.juaracoding.oop.KaryawanTest"/>
+            <class name="com.juaracoding.oop.CalculatorTest"/>
+            <class name="test.Ujian2"/>
+        </classes>
+    </test>
+</suite>
